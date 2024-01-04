@@ -4,7 +4,7 @@ One of my projects as part of a coursework for my University of Portsmouth cours
 This project is developed within the Processing environment - an IDE with an integrated graphical library. Thus to run this project you need to install Processing and install the 2 dependencies: the Peasycam and ControlP5 libraries from within the application.
 You may find the report for the created artifact here: [Report](https://github.com/ogrruz/solar-visual/blob/main/report.pdf)
 
-![2024-01-04 17-36-57](https://github.com/ogrruz/solar-visual/blob/main/report.pdf)
+![2024-01-04 17-36-57](https://github.com/ogrruz/solar-visual/assets/146378205/bb0b30e7-f73a-4ec7-9f83-69a09e8e1744)
 
 ## Directories
 
