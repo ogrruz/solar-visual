@@ -10,6 +10,8 @@ You may find the report for the created artifact here: [Report](link.to/paper)
 
 The directories here are progressive iterations of the artefact with generation 3 being the final version
 
-* Generation1: 
-* Generation2: 
-* Generation3: 
+* Generation1: first iteration. Generation of the parent planet object and children nodes wildly rotating around its axis
+
+* Generation2: all objects generated and are rotating in random directions at approximately correct relative disatances  
+
+* Generation3: final iteration. Correct Axii implemented, added texture and lighting
